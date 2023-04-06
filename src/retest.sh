@@ -1,0 +1,1 @@
+docker-compose run k6 run /scripts/sample-load.js
